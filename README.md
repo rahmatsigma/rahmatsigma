@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahmat</h1>
-<h3 align="center">I am a student from Indonesia and still developing</h3>
+![rahmatsigma](img/github-header-image.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahmatsigma&label=Profile%20views&color=0e75b6&style=flat" alt="rahmatsigma" /> </p>
 
