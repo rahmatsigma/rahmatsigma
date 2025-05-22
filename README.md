@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Rahmat</h1>
 
 <p align="left"> <img src="img/Blabla.png" alt="rahmatsigma" /> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahmatsigma&label=Profile%20views&color=0e75b6&style=flat" alt="rahmatsigma" /> </p>
+<h1 align="center">Hi 👋, I'm Rahmat</h1>
 
 - 🌱 I’m currently learning **Surabaya State University**
 
