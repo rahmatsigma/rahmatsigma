@@ -1,12 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rahmat</h1>
-<h3 align="center">I am a student from Indonesia and still developing</h3>
 
-<p align="left"> <img src="img/header.png" alt="rahmatsigma" /> </p>
+<p align="left"> <img src="img/Blabla.png" alt="rahmatsigma" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahmatsigma&label=Profile%20views&color=0e75b6&style=flat" alt="rahmatsigma" /> </p>
 
 - 🌱 I’m currently learning **Surabaya State University**
-
-- 💬 Ask me about **I want to be Cybersecurity Specialist**
 
 - 📫 How to reach me **rahmattillah079@gmail.com**
 
